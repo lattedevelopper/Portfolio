@@ -1,49 +1,27 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm [Your Name]
 
-💻 **Full-Stack Developer**  
-🌱 Currently learning: **Rust, Kubernetes**  
-✨ Passionate about: **Open-source, UI/UX**
+**Backend Developer | Open-Source Contributor**
 
-## 🚀 Tech Stack
+📍 **Location:** Moscow, Russia  
+🌱 **Currently learning:** System design, Go  
+💡 **Interests:** Clean architecture, performance optimization  
 
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
-</p>
+## Core Skills
+- **Languages:** Python, JavaScript, SQL  
+- **Backend:** Django, FastAPI, Node.js  
+- **DevOps:** Docker, AWS, CI/CD  
+- **Data:** PostgreSQL, Redis, Elasticsearch  
 
-### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" />
-</p>
+## Recent Projects
+- **[Project Name](https://github.com/link)** - Description of what it does and technologies used  
+- **[Project Name](https://github.com/link)** - Description with business impact  
 
-### Backend & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
-</p>
+## GitHub Activity
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide=issues)](https://github.com/YOUR_USERNAME)
 
-## 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
+## Let's Connect
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-## 🌟 Featured Projects
-- **[Project Name](https://github.com/link)** - Short description with impact
-- **[Project Name](https://github.com/link)** - Short description with impact
-
-## 📬 Let's Connect
-<p align="center">
-  <a href="mailto:your@email.com">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="45"/>
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45"/>
-  </a>
-</p>
+📫 **Best way to reach me:** [your@email.com](mailto:your@email.com)
