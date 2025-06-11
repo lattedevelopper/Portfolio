@@ -17,11 +17,7 @@
 - **[Velvet](https://github.com/link)** - Description with business impact  
 
 ## GitHub Activity
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide=issues)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lattedevelopper&show_icons=true&count_private=true&hide=issues)](https://github.com/lattedevelopper)
 
 ## Let's Connect
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
-📫 **Best way to reach me:** [your@email.com](mailto:your@email.com)
