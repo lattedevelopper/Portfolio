@@ -20,4 +20,4 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lattedevelopper&show_icons=true&count_private=true&hide=issues)](https://github.com/lattedevelopper)
 
 ## Let's Connect
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/Nope)
