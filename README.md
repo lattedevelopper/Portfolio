@@ -2,19 +2,19 @@
 
 **Backend Developer | Open-Source Contributor**
 
-📍 **Location:** Moscow, Russia  
+📍 **Location:** Russia  
 🌱 **Currently learning:** System design, Go  
 💡 **Interests:** Clean architecture, performance optimization  
 
 ## Core Skills
-- **Languages:** Python, JavaScript, SQL  
+- **Languages:** Python, JavaScript, SQL, TypeScript  
 - **Backend:** Django, FastAPI, Node.js  
 - **DevOps:** Docker, AWS, CI/CD  
 - **Data:** PostgreSQL, Redis, Elasticsearch  
 
 ## Recent Projects
-- **[Project Name](https://github.com/link)** - Description of what it does and technologies used  
-- **[Project Name](https://github.com/link)** - Description with business impact  
+- **[DevHub](https://github.com/link)** - Description of what it does and technologies used  
+- **[Velvet](https://github.com/link)** - Description with business impact  
 
 ## GitHub Activity
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide=issues)](https://github.com/YOUR_USERNAME)
