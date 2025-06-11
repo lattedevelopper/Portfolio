@@ -1,39 +1,49 @@
-# Привет, я [Кирилл]! 👋
+# Hello, I'm [Your Name]! 👋
 
-💻 **Backend/Frontend/Fullstack разработчик**  
-🌱 Сейчас изучаю: **C++, C**  
-🎯 Цель: **Закончить разработку DevHub**  
+💻 **Full-Stack Developer**  
+🌱 Currently learning: **Rust, Kubernetes**  
+✨ Passionate about: **Open-source, UI/UX**
 
-## 🛠️ Технологии
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+## 🚀 Tech Stack
 
-## 📊 GitHub статистика
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=radical)](https://github.com/ВАШ_НИК)
-[![Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)](https://github.com/ВАШ_НИК)
-
-## 🔥 Мои проекты
-- **[Крутой проект](https://github.com/ссылка)** - Описание проекта
-- **[Еще проект](https://github.com/ссылка)** - Что делает этот проект
-
-## 📱 Соцсети и контакты
-<p align="center">
-  <a href="https://t.me/ваш_ник">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50"/>
-  </a>
-  <a href="https://vk.com/ваша_страница">
-    <img src="https://img.icons8.com/color/48/000000/vk-com.png" width="50"/>
-  </a>
-  <a href="https://linkedin.com/in/ваш_профиль">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50"/>
-  </a>
-  <a href="mailto:ваш@email.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="50"/>
-  </a>
+### Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
 </p>
 
-## 💬 Как со мной связаться?
-📧 **Email:** [ваш@email.com](mailto:ваш@email.com)  
-📱 **Telegram:** [@ваш_ник](https://t.me/ваш_ник)
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" />
+</p>
+
+### Backend & DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
+</p>
+
+## 📊 GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
+
+## 🌟 Featured Projects
+- **[Project Name](https://github.com/link)** - Short description with impact
+- **[Project Name](https://github.com/link)** - Short description with impact
+
+## 📬 Let's Connect
+<p align="center">
+  <a href="mailto:your@email.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="45"/>
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45"/>
+  </a>
+</p>
