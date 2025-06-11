@@ -13,8 +13,8 @@
 - **Data:** PostgreSQL, Redis, Elasticsearch  
 
 ## Recent Projects
-- **[DevHub](https://github.com/link)** - Description of what it does and technologies used  
-- **[Velvet](https://github.com/link)** - Description with business impact  
+- **[DevHub](https://github.com/link)** - Website for connecting developer communities.
+- **[Velvet](https://github.com/link)** - Website underwear store  
 
 ## GitHub Activity
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lattedevelopper&show_icons=true&count_private=true&hide=issues)](https://github.com/lattedevelopper)
