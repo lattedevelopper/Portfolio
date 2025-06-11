@@ -20,8 +20,8 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide=issues)](https://github.com/YOUR_USERNAME)
 
 ## Let's Connect
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Discord]([https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white))
 
 📫 **Best way to reach me:** [your@email.com](mailto:your@email.com)
