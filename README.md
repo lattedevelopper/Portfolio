@@ -17,7 +17,7 @@
 - **[Velvet](https://github.com/link)** - Website underwear store  
 
 ## GitHub Activity
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lattedevelopper&show_icons=true&count_private=true&hide=issues)](https://github.com/lattedevelopper)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaywoodDev&show_icons=true&count_private=true&hide=issues)](https://github.com/LaywoodDev)
 
 ## Let's Connect
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/Nope)
