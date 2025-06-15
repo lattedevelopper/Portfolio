@@ -1,4 +1,4 @@
-# Hello, I'm [Laywood]
+# Hello, I'm Laywood
 
 **Backend Developer | Open-Source Contributor**
 
