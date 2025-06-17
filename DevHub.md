@@ -1,18 +1,10 @@
-# Hello, welcome to DevHub
+# DevHub – Developer Platform  
 
-**Backend Developer | Open-Source Contributor**
+**DevPortal** is a community for programmers featuring an article library, discussion forum, tools catalog, and a repository of ready-made solutions. Here you can publish projects, find job opportunities, earn badges for activity, and exchange knowledge with peers.  
 
-📍 **Server Location:** Frankfurt, Germany  
-🌱 **Currently working on :** comment system, bugfixes
+**Technologies:** React/Next.js, TypeScript, Node.js/Python, PostgreSQL/MongoDB. Supports authentication via GitHub and Google.  
 
-## Core Skills
-- **Languages:** Python, JavaScript, SQL, TypeScript  
-- **Backend:** Django, FastAPI, Node.js  
-- **DevOps:** Docker, AWS, CI/CD  
-- **Data:** PostgreSQL, Redis, Elasticsearch  
+**Website:** [https://devportal.example.com](https://devportal.example.com)  
+**Contact:** devhub@inbox.ru
 
-## Additional info
-- **[DevHub](https://github.com/link)** - Website for connecting developer communities.
-
-## Let's Connect
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/.laywood)
+Join our developer community! 🚀
